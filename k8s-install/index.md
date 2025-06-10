@@ -1,0 +1,9 @@
+1. [[add host]]
+2. [[first config]]
+- [[RESET K8S - RUN ON 3 SERVERS]]
+- [[ERROR PENDING]]
+2. [[1 CONTROLER PLANE - 2 WORKER]]
+3. [[3 MASTER - 3 WORKER]]
+4. [[INSTALL RANCHER SERVER]]
+5. [[SỬ DỤNG CÔNG CỤ GIAO DIỆN ĐỂ TRÍCH XUẤT FILE YAML]]
+6. 
