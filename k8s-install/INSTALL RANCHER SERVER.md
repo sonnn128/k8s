@@ -1,5 +1,5 @@
 ```
-install rancher with
+install rancher with docker
 install rancher with helm
 ```
 

@@ -9,7 +9,7 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 # k8s-master-3
 Run command
 
-- k8s-master-1:
+- k8s-master-1:w
 kubectl apply -f https://raw.githubusercontent.com/projectcalico/calico/v3.25.0/manifests/calico.yaml
 WAITING FOR 5 MINUTES
 ```

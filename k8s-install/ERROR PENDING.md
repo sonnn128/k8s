@@ -9,8 +9,9 @@ hosts {
   fallthrough
 }
 kubectl -n kube-system rollout restart deployment coredns
+
 WAIT 2 MINUTES
-kubectl run -it --rm --restart=Never busybox --image=busybox -- nslookup rancher.nnson128.vn
+kubectl run -it --rm --restart=Never busybox --image=busybox -- nslookup 
 
 kubectl apply -f ....
 ```
